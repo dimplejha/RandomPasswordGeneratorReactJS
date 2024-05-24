@@ -1,6 +1,6 @@
 # RandomPasswordGeneratorReactJS </br>
 
-● Implemented a random password generator functionality that generates passwords based </br>
+● Used ReactJs to Implement a random password generator functionality that generates passwords based </br>
 on user preferences (numbers, alphabets, and special characters). </br>
 ● Display the generated password to the user.</br>
 ● Added a funtionality a copy-to-clipboard functionality for the generated password.</br>
